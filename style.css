@@ -1,0 +1,17 @@
+
+
+
+:root {
+   --color-background: #1A1B20;
+   --color-background-landingpage: #353944;
+   --color-background-post: #52555F;
+   --color-text-in-black: #CBCCCF;
+   --color-text-in-white: #52555F;
+   --color-primary: #00BB5C;
+   --color-white: #FFFFFF;
+   font-size: 60%; /* controle de medidas*/
+}
+
+body {
+    background-color: var(--color-background);
+}
